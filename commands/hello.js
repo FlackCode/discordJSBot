@@ -23,6 +23,3 @@ module.exports = {
             interaction.reply(`Hello ${user.username} ${text}`)
       }
 }
-
-
-
